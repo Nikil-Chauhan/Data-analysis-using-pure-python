@@ -16,9 +16,3 @@ This project analyzes **developer data from Delhi** using **pure Python** (witho
 
 4. **Page Recommendations – "Pages You May Like"**  
    - Suggest relevant pages based on user activity
-
-     
-## Technologies Used
-
-- Python 
-- Jupyter Lab / Jupyter Notebook
