@@ -20,5 +20,5 @@ This project analyzes **developer data from Delhi** using **pure Python** (witho
      
 ## Technologies Used
 
-- Python (pure Python for data analysis)
+- Python 
 - Jupyter Lab / Jupyter Notebook
