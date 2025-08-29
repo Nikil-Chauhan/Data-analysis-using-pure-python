@@ -1,7 +1,6 @@
 # 📊 Data Analysis Using Pure Python
 
 This project analyzes **developer data from Delhi** using **pure Python** (without frameworks like Pandas).  
-Doing this in pure Python gave me a deeper understanding of how Pandas actually works under the hood.
 
 ## 🔹 Project Workflow
 1. **Data Cleaning**  
@@ -17,3 +16,8 @@ Doing this in pure Python gave me a deeper understanding of how Pandas actually 
 
 4. **Page Recommendations – "Pages You May Like"**  
    - Suggest relevant pages based on user activity  
+
+Technologies Used
+
+- Python (pure Python for data analysis)
+- Jupyter Lab / Jupyter Notebook
