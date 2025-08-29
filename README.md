@@ -15,9 +15,10 @@ This project analyzes **developer data from Delhi** using **pure Python** (witho
    - Identify mutual connections between developers  
 
 4. **Page Recommendations – "Pages You May Like"**  
-   - Suggest relevant pages based on user activity  
+   - Suggest relevant pages based on user activity
 
-Technologies Used
+     
+## Technologies Used
 
 - Python (pure Python for data analysis)
 - Jupyter Lab / Jupyter Notebook
